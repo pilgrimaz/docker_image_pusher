@@ -1,8 +1,9 @@
 httpd
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+xhofe/alist:latest xhofe/alist:latest
+--platform=linux/arm64 
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm32 xiaoyaliu/alist
 ionewu/owjdxb_a32
 ionewu/owjdxb_a64
