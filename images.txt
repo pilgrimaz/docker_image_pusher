@@ -11,3 +11,4 @@ xhofe/alist:latest
 haishanh/yacd:latest
 80x86/clash:premium-2023.06.30
 h55205l/ffandown:v4.2
+dosyago/browserbox
