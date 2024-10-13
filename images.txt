@@ -5,11 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm/v7 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm/v7 xiaoyaliu/alist
---platform=linux/arm/v6 msterzhang/onelist
---platform=linux/arm/v7 jellyfin/jellyfin
---platform=linux/arm/v7 whyour/qinglong
-haishanh/yacd:latest
-80x86/clash:premium-2023.06.30
-h55205l/ffandown:v4.2
-dosyago/browserbox
---platform=linux/arm/v6 h55205l/ffandown:v5.0.8-Beta-arm64
+--platform=linux/arm/v7 h55205l/ffandown:v5.0.8-Beta-arm64
