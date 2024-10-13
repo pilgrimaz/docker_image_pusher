@@ -5,4 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm/v7 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm/v7 xiaoyaliu/alist
---platform=linux/arm/v7 h55205l/ffandown
+--platform=linux/arm/v7 dreamacro/clash
