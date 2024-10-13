@@ -5,4 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm/v7 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm/v7 xiaoyaliu/alist
---platform=linux/arm/v7 h55205l/ffandown:v5.0.8-Beta-arm64
+--platform=linux/arm/v7 h55205l/ffandown
