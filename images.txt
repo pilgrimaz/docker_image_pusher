@@ -16,3 +16,4 @@ dosyago/browserbox
 --platform=linux/arm/v7 dreamacro/clash
 --platform=linux/arm/v7 jrei/systemd-debian:latest
 --platform=linux/arm/v7 jrei/systemd-ubuntu:latest
+--platform=linux/arm/v7 itzg/minecraft-server:java8
