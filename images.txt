@@ -8,6 +8,7 @@ xhofe/alist:latest
 --platform=linux/arm/v6 msterzhang/onelist
 --platform=linux/arm/v7 jellyfin/jellyfin
 --platform=linux/arm/v7 whyour/qinglong
+--platform=linux/arm/v7 timbru31/java-node:17-jdk-hydrogen
 haishanh/yacd:latest
 80x86/clash:premium-2023.06.30
 h55205l/ffandown:v4.2
