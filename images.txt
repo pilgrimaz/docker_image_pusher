@@ -14,3 +14,4 @@ haishanh/yacd:latest
 h55205l/ffandown:v4.2
 dosyago/browserbox
 --platform=linux/arm/v7 dreamacro/clash
+--platform=linux/arm/v7 jrei/systemd-debian:latest
